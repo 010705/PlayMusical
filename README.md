@@ -1,4 +1,6 @@
-# test-music
+# PlayMusical
+
+调用网易云音乐开源API实现的音乐播放器
 
 ## Project setup
 ```
